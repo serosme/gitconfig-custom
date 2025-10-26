@@ -1,0 +1,10 @@
+[init]
+    defaultBranch = main
+[core]
+    quotepath = false
+[color]
+    ui = auto
+[includeIf "gitdir:~/Documents/WindowsPowerShell/"]
+    path = ~/workspace/personal/gitconfig-custom/.gitconfig-personal
+[includeIf "gitdir:~/workspace/personal/"]
+    path = ~/workspace/personal/gitconfig-custom/.gitconfig-personal
