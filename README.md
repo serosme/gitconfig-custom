@@ -2,6 +2,12 @@
 
 ## Command
 
+Create workspace
+
+```shell
+mkdir -p ~/workspace/personal; mkdir -p ~/workspace/professional;
+```
+
 Generating a new SSH key
 
 ```shell
