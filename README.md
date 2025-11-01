@@ -17,19 +17,19 @@ ssh-keygen -t ed25519
 Copy the SSH configuration file
 
 ```shell
-cp "~/workspace/personal/gitconfig-custom/config" "~/.ssh/config"
+cp ~/workspace/personal/gitconfig-custom/config ~/.ssh/config
 ```
 
 Copy the Git configuration file
 
 ```shell
-cp "~/workspace/personal/gitconfig-custom/.gitconfig" "~/.gitconfig"
+cp ~/workspace/personal/gitconfig-custom/.gitconfig ~/.gitconfig
 ```
 
 Copy the `.bash_profile` file"
 
 ```shell
-cp "~/workspace/personal/gitconfig-custom/.bash_profile" "~/.bash_profile"
+cp ~/workspace/personal/gitconfig-custom/.bash_profile ~/.bash_profile
 ```
 
 ## Windows Terminal
