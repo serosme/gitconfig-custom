@@ -1,0 +1,2 @@
+# Ignore custom Git configuration files
+.gitconfig-*

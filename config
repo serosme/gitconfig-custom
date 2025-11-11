@@ -1,0 +1,4 @@
+Host *
+    ServerAliveInterval 60
+    # ProxyCommand "C:\Users\User\scoop\apps\git\current\mingw64\bin\connect.exe" -S 127.0.0.1:7890 %h %p
+    # ProxyCommand ncat --proxy-type socks5 --proxy 127.0.0.1:7890 %h %p
